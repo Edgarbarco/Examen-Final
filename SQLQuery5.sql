@@ -1,0 +1,1 @@
+EXEC categoria_listar
